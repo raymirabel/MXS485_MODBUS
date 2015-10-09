@@ -16,7 +16,7 @@
     MODO W: FUNCION 6 - WRITE SINGLE HOLDING REGISTER
     
     DIRECCION   TIPO    MODO  FORMATO    MAXIMO      MINIMO    UNIDADES    DESCRIPCION
-  
+    -----------------------------------------------------------------------------------------  
     0x0000      uint    R     00000      10680       00200     mm          MEDIDA INSTANTANEA
     0x0001      uint    R     00000      10680       00200     mm          MEDIDA EN RAMPA 
     0x0002      uint    R     00000      00001       00000     ---         SENSOR LECTURA OK
