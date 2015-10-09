@@ -1,7 +1,7 @@
 # MXS485_MODBUS
 Protocolo modbus para el sensor ultrasonico MXS485
 
-## CARACTERISTICAS GENERALES
+### CARACTERISTICAS GENERALES
   - 6 interruptores dipswitch para direccionamiento modbus
   - Bus de comunicaciones RS485 con detección automática de dirección
   - Amplio rango de alimentación de 6.5 a 30VDC
@@ -11,7 +11,7 @@ Protocolo modbus para el sensor ultrasonico MXS485
   - Muestreo: 0.5s
   - IP66
   
-# MAPA MODBUS
+### MAPA MODBUS
     MODO R: FUNCION 3 - READ BLOCK HOLDING REGISTERS
     MODO W: FUNCION 6 - WRITE SINGLE HOLDING REGISTER
     
