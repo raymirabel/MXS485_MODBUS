@@ -107,6 +107,7 @@ void setup()  {
   // configura modbus...
   modbus.config(9600,'n');
   modbus.direccion = leeDIPSW();
+  //Serial.begin(19200,SERIAL_8N2);
   
   // Configura puerto serie software para sensor...
   cdm.begin(9600);
