@@ -1,7 +1,7 @@
 # MXS485_MODBUS
 Protocolo modbus para el sensor ultrasonico MXS485
 
-- 6 interruptores dipswitch para direccionamiento modbus
+- 8 interruptores dipswitch para direccionamiento, velocidad y paridad modbus
 - Bus de comunicaciones RS485 con detección automática de dirección
 - Amplio rango de alimentación de 6.5 a 30VDC
 - Regulador conmutado de alta eficiencia
